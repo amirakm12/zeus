@@ -1,0 +1,3 @@
+oauth_secret: "mock_secret_123"
+max_requests: 50
+log_level: "INFO"
